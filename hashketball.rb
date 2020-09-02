@@ -18,7 +18,7 @@ game = {:home => {:team_name => "Brooklyn Nets",
   :away => {:team_name => "Charlotte Hornets",
     :colors => ["Turquoise", "Purple"],
     :players => [{
-      :player_name => "Jeff Adrien",
+      :player_name => "Reggie Evans",
       :number => 4,
       :shoe => 18,
       :points => 10,
@@ -27,17 +27,6 @@ game = {:home => {:team_name => "Brooklyn Nets",
       :steals => 2,
       :blocks => 7,
       :slam_dunks => 2 
-    },
-    {
-      :player_name => "Reggie Evans",
-      :number => 30,
-      :shoe => 14,
-      :points => 12,
-      :rebounds => 12,
-      :assists => 12,
-      :steals => 12,
-      :blocks => 12,
-      :slam_dunks => 7 
     },
     {
       :player_name => "Brook Lopez",
