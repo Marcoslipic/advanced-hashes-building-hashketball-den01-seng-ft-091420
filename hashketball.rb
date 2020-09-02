@@ -31,10 +31,10 @@ game = {:home => {:team_name => "Brooklyn Nets",
     :shoe => 17,
     :points => 17,
     :rebounds => 19,
-    :assists => 12,
+    :assists => 10,
     :steals => 3,
     :blocks => 1,
-    :slam_dunks => 1
+    :slam_dunks => 15
   },
   ]
 },
