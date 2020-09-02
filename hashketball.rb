@@ -63,7 +63,7 @@ game = {:home => {:team_name => "Brooklyn Nets",
   :away => {:team_name => "Charlotte Hornets",
     :colors => ["Turquoise", "Purple"],
     :players => [{
-      :player_name => "Reggie Evans",
+      :player_name => "Jeff Adrien",
       :number => 4,
       :shoe => 18,
       :points => 10,
@@ -74,15 +74,15 @@ game = {:home => {:team_name => "Brooklyn Nets",
       :slam_dunks => 2 
     },
     {
-      :player_name => "Brook Lopez",
-      :number => 11,
-      :shoe => 17,
-      :points => 17,
-      :rebounds => 19,
-      :assists => 10,
-      :steals => 3,
-      :blocks => 1,
-      :slam_dunks => 15 
+      :player_name => "Bismack Biyombo",
+      :number => 0,
+      :shoe => 16,
+      :points => 12,
+      :rebounds => 4,
+      :assists => 7,
+      :steals => 22,
+      :blocks => 15,
+      :slam_dunks => 10 
     },
     {
       :player_name => "Mason Plumlee",
