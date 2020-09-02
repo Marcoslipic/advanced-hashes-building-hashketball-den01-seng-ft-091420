@@ -1,6 +1,8 @@
 # Write your code here!
 
 def game_hash
-game = {}
+game = {:home => {},
+  :away => {}
+}
 
 end 
