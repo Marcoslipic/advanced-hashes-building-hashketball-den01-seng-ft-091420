@@ -27,7 +27,9 @@ game = {:home => {:team_name => "Brooklyn Nets",
       :steals => 2,
       :blocks => 7,
       :slam_dunks => 2 
-    }]
+    },
+    
+    ]
   }
 }
 
