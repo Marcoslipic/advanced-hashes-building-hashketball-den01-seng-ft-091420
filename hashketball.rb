@@ -17,7 +17,10 @@ game = {:home => {:team_name => "Brooklyn Nets",
 },
   :away => {:team_name => "Charlotte Hornets",
     :colors => ["Turquoise", "Purple"],
-    :players => [{}]
+    :players => [{
+      :player_name => "",
+      :number => 
+    }]
   }
 }
 
